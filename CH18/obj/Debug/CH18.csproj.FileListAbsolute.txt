@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\YCIConsoleApp\CH18\bin\Debug\CH18.exe.config
+C:\Users\MSI\source\repos\YCIConsoleApp\CH18\bin\Debug\CH18.exe
+C:\Users\MSI\source\repos\YCIConsoleApp\CH18\bin\Debug\CH18.pdb
+C:\Users\MSI\source\repos\YCIConsoleApp\CH18\obj\Debug\CH18.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\YCIConsoleApp\CH18\obj\Debug\CH18.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\YCIConsoleApp\CH18\obj\Debug\CH18.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\YCIConsoleApp\CH18\obj\Debug\CH18.exe
+C:\Users\MSI\source\repos\YCIConsoleApp\CH18\obj\Debug\CH18.pdb

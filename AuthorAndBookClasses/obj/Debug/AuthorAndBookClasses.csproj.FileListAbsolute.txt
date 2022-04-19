@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\YCIConsoleApp\AuthorAndBookClasses\bin\Debug\AuthorAndBookClasses.exe.config
+C:\Users\MSI\source\repos\YCIConsoleApp\AuthorAndBookClasses\bin\Debug\AuthorAndBookClasses.exe
+C:\Users\MSI\source\repos\YCIConsoleApp\AuthorAndBookClasses\bin\Debug\AuthorAndBookClasses.pdb
+C:\Users\MSI\source\repos\YCIConsoleApp\AuthorAndBookClasses\obj\Debug\AuthorAndBookClasses.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\YCIConsoleApp\AuthorAndBookClasses\obj\Debug\AuthorAndBookClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\YCIConsoleApp\AuthorAndBookClasses\obj\Debug\AuthorAndBookClasses.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\YCIConsoleApp\AuthorAndBookClasses\obj\Debug\AuthorAndBookClasses.exe
+C:\Users\MSI\source\repos\YCIConsoleApp\AuthorAndBookClasses\obj\Debug\AuthorAndBookClasses.pdb
