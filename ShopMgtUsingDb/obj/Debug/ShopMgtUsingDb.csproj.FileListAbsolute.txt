@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\YCIConsoleApp\ShopMgtUsingDb\bin\Debug\ShopMgtUsingDb.exe.config
+C:\Users\MSI\source\repos\YCIConsoleApp\ShopMgtUsingDb\bin\Debug\ShopMgtUsingDb.exe
+C:\Users\MSI\source\repos\YCIConsoleApp\ShopMgtUsingDb\bin\Debug\ShopMgtUsingDb.pdb
+C:\Users\MSI\source\repos\YCIConsoleApp\ShopMgtUsingDb\obj\Debug\ShopMgtUsingDb.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\YCIConsoleApp\ShopMgtUsingDb\obj\Debug\ShopMgtUsingDb.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\YCIConsoleApp\ShopMgtUsingDb\obj\Debug\ShopMgtUsingDb.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\YCIConsoleApp\ShopMgtUsingDb\obj\Debug\ShopMgtUsingDb.exe
+C:\Users\MSI\source\repos\YCIConsoleApp\ShopMgtUsingDb\obj\Debug\ShopMgtUsingDb.pdb
